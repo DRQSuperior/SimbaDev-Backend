@@ -1,2 +1,1 @@
-# SimbaDev-Backend
-The real simba dev backend
+# Go Away :D
